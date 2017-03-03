@@ -41,7 +41,7 @@ class App extends React.Component {
 		return { __html : renderText };
 	}
 
-	render() {
+	render() {   
 		return (
 				 
 				<div className="container">
